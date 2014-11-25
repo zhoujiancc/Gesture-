@@ -16,6 +16,26 @@
 		CE1ECFB61391CD2A00F8DE21 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = CE1ECFB51391CD2A00F8DE21 /* Default.png */; };
 		CE1ECFB81391CD2A00F8DE21 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CE1ECFB71391CD2A00F8DE21 /* Default@2x.png */; };
 		CE1ECFBA1391CD2A00F8DE21 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CE1ECFB91391CD2A00F8DE21 /* Default-568h@2x.png */; };
+		CE1ECFC31391CD6700F8DE21 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE1ECFC11391CD6700F8DE21 /* MainViewController.m */; };
+		CE1ECFC41391CD6700F8DE21 /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE1ECFC21391CD6700F8DE21 /* MainViewController.xib */; };
+		CE1ECFCE1391CF4D00F8DE21 /* TapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE1ECFCC1391CF4D00F8DE21 /* TapViewController.m */; };
+		CE1ECFCF1391CF4D00F8DE21 /* TapViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE1ECFCD1391CF4D00F8DE21 /* TapViewController.xib */; };
+		CE1ECFD31391CF9700F8DE21 /* PinchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE1ECFD11391CF9700F8DE21 /* PinchViewController.m */; };
+		CE1ECFD41391CF9700F8DE21 /* PinchViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE1ECFD21391CF9700F8DE21 /* PinchViewController.xib */; };
+		CE1ECFD81391CFAC00F8DE21 /* PanViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE1ECFD61391CFAC00F8DE21 /* PanViewController.m */; };
+		CE1ECFD91391CFAC00F8DE21 /* PanViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE1ECFD71391CFAC00F8DE21 /* PanViewController.xib */; };
+		CE1ECFDD1391CFBD00F8DE21 /* SwipeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE1ECFDB1391CFBD00F8DE21 /* SwipeViewController.m */; };
+		CE1ECFDE1391CFBD00F8DE21 /* SwipeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE1ECFDC1391CFBD00F8DE21 /* SwipeViewController.xib */; };
+		CE1ECFE21391D07000F8DE21 /* RotationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE1ECFE01391D07000F8DE21 /* RotationViewController.m */; };
+		CE1ECFE31391D07000F8DE21 /* RotationViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE1ECFE11391D07000F8DE21 /* RotationViewController.xib */; };
+		CE1ECFE71391D08300F8DE21 /* LongPressViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE1ECFE51391D08300F8DE21 /* LongPressViewController.m */; };
+		CE1ECFE81391D08300F8DE21 /* LongPressViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE1ECFE61391D08300F8DE21 /* LongPressViewController.xib */; };
+		CE1ECFEB1391D0B200F8DE21 /* guidex2.png in Resources */ = {isa = PBXBuildFile; fileRef = CE1ECFE91391D0B200F8DE21 /* guidex2.png */; };
+		CE1ECFEC1391D0B200F8DE21 /* guidex0.png in Resources */ = {isa = PBXBuildFile; fileRef = CE1ECFEA1391D0B200F8DE21 /* guidex0.png */; };
+		CE1ECFEE1391DA0300F8DE21 /* b812c8fcc3cec3fd19e07713d788d43f869427fe.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE1ECFED1391DA0300F8DE21 /* b812c8fcc3cec3fd19e07713d788d43f869427fe.jpg */; };
+		CE1ECFF01391DD3700F8DE21 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE1ECFEF1391DD3700F8DE21 /* QuartzCore.framework */; };
+		CE1ECFF21391EEA800F8DE21 /* guide_look_btn_bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CE1ECFF11391EEA800F8DE21 /* guide_look_btn_bg@2x.png */; };
+		CE1ECFF41391F49E00F8DE21 /* pint.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE1ECFF31391F49E00F8DE21 /* pint.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +52,33 @@
 		CE1ECFB51391CD2A00F8DE21 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		CE1ECFB71391CD2A00F8DE21 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		CE1ECFB91391CD2A00F8DE21 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		CE1ECFC01391CD6700F8DE21 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MainViewController.h; path = ../MainViewController.h; sourceTree = "<group>"; };
+		CE1ECFC11391CD6700F8DE21 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MainViewController.m; path = ../MainViewController.m; sourceTree = "<group>"; };
+		CE1ECFC21391CD6700F8DE21 /* MainViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = MainViewController.xib; path = ../MainViewController.xib; sourceTree = "<group>"; };
+		CE1ECFCB1391CF4D00F8DE21 /* TapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TapViewController.h; sourceTree = "<group>"; };
+		CE1ECFCC1391CF4D00F8DE21 /* TapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TapViewController.m; sourceTree = "<group>"; };
+		CE1ECFCD1391CF4D00F8DE21 /* TapViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TapViewController.xib; sourceTree = "<group>"; };
+		CE1ECFD01391CF9700F8DE21 /* PinchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PinchViewController.h; sourceTree = "<group>"; };
+		CE1ECFD11391CF9700F8DE21 /* PinchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PinchViewController.m; sourceTree = "<group>"; };
+		CE1ECFD21391CF9700F8DE21 /* PinchViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PinchViewController.xib; sourceTree = "<group>"; };
+		CE1ECFD51391CFAC00F8DE21 /* PanViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PanViewController.h; sourceTree = "<group>"; };
+		CE1ECFD61391CFAC00F8DE21 /* PanViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PanViewController.m; sourceTree = "<group>"; };
+		CE1ECFD71391CFAC00F8DE21 /* PanViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PanViewController.xib; sourceTree = "<group>"; };
+		CE1ECFDA1391CFBD00F8DE21 /* SwipeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SwipeViewController.h; sourceTree = "<group>"; };
+		CE1ECFDB1391CFBD00F8DE21 /* SwipeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SwipeViewController.m; sourceTree = "<group>"; };
+		CE1ECFDC1391CFBD00F8DE21 /* SwipeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SwipeViewController.xib; sourceTree = "<group>"; };
+		CE1ECFDF1391D07000F8DE21 /* RotationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RotationViewController.h; sourceTree = "<group>"; };
+		CE1ECFE01391D07000F8DE21 /* RotationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RotationViewController.m; sourceTree = "<group>"; };
+		CE1ECFE11391D07000F8DE21 /* RotationViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RotationViewController.xib; sourceTree = "<group>"; };
+		CE1ECFE41391D08300F8DE21 /* LongPressViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LongPressViewController.h; sourceTree = "<group>"; };
+		CE1ECFE51391D08300F8DE21 /* LongPressViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LongPressViewController.m; sourceTree = "<group>"; };
+		CE1ECFE61391D08300F8DE21 /* LongPressViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LongPressViewController.xib; sourceTree = "<group>"; };
+		CE1ECFE91391D0B200F8DE21 /* guidex2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = guidex2.png; sourceTree = "<group>"; };
+		CE1ECFEA1391D0B200F8DE21 /* guidex0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = guidex0.png; sourceTree = "<group>"; };
+		CE1ECFED1391DA0300F8DE21 /* b812c8fcc3cec3fd19e07713d788d43f869427fe.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = b812c8fcc3cec3fd19e07713d788d43f869427fe.jpg; sourceTree = "<group>"; };
+		CE1ECFEF1391DD3700F8DE21 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		CE1ECFF11391EEA800F8DE21 /* guide_look_btn_bg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "guide_look_btn_bg@2x.png"; sourceTree = "<group>"; };
+		CE1ECFF31391F49E00F8DE21 /* pint.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pint.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +86,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE1ECFF01391DD3700F8DE21 /* QuartzCore.framework in Frameworks */,
 				CE1ECFA41391CD2A00F8DE21 /* UIKit.framework in Frameworks */,
 				CE1ECFA61391CD2A00F8DE21 /* Foundation.framework in Frameworks */,
 				CE1ECFA81391CD2A00F8DE21 /* CoreGraphics.framework in Frameworks */,
@@ -51,6 +99,8 @@
 		CE1ECF971391CD2A00F8DE21 = {
 			isa = PBXGroup;
 			children = (
+				CE1ECFEF1391DD3700F8DE21 /* QuartzCore.framework */,
+				CE1ECFC51391CF1700F8DE21 /* Controllers */,
 				CE1ECFA91391CD2A00F8DE21 /* Gesture */,
 				CE1ECFA21391CD2A00F8DE21 /* Frameworks */,
 				CE1ECFA11391CD2A00F8DE21 /* Products */,
@@ -80,6 +130,9 @@
 			children = (
 				CE1ECFB21391CD2A00F8DE21 /* MainAppDelegate.h */,
 				CE1ECFB31391CD2A00F8DE21 /* MainAppDelegate.m */,
+				CE1ECFC01391CD6700F8DE21 /* MainViewController.h */,
+				CE1ECFC11391CD6700F8DE21 /* MainViewController.m */,
+				CE1ECFC21391CD6700F8DE21 /* MainViewController.xib */,
 				CE1ECFAA1391CD2A00F8DE21 /* Supporting Files */,
 			);
 			path = Gesture;
@@ -88,6 +141,11 @@
 		CE1ECFAA1391CD2A00F8DE21 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CE1ECFF31391F49E00F8DE21 /* pint.jpg */,
+				CE1ECFF11391EEA800F8DE21 /* guide_look_btn_bg@2x.png */,
+				CE1ECFED1391DA0300F8DE21 /* b812c8fcc3cec3fd19e07713d788d43f869427fe.jpg */,
+				CE1ECFE91391D0B200F8DE21 /* guidex2.png */,
+				CE1ECFEA1391D0B200F8DE21 /* guidex0.png */,
 				CE1ECFAB1391CD2A00F8DE21 /* Gesture-Info.plist */,
 				CE1ECFAC1391CD2A00F8DE21 /* InfoPlist.strings */,
 				CE1ECFAF1391CD2A00F8DE21 /* main.m */,
@@ -97,6 +155,31 @@
 				CE1ECFB91391CD2A00F8DE21 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CE1ECFC51391CF1700F8DE21 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				CE1ECFCB1391CF4D00F8DE21 /* TapViewController.h */,
+				CE1ECFCC1391CF4D00F8DE21 /* TapViewController.m */,
+				CE1ECFCD1391CF4D00F8DE21 /* TapViewController.xib */,
+				CE1ECFD01391CF9700F8DE21 /* PinchViewController.h */,
+				CE1ECFD11391CF9700F8DE21 /* PinchViewController.m */,
+				CE1ECFD21391CF9700F8DE21 /* PinchViewController.xib */,
+				CE1ECFD51391CFAC00F8DE21 /* PanViewController.h */,
+				CE1ECFD61391CFAC00F8DE21 /* PanViewController.m */,
+				CE1ECFD71391CFAC00F8DE21 /* PanViewController.xib */,
+				CE1ECFDA1391CFBD00F8DE21 /* SwipeViewController.h */,
+				CE1ECFDB1391CFBD00F8DE21 /* SwipeViewController.m */,
+				CE1ECFDC1391CFBD00F8DE21 /* SwipeViewController.xib */,
+				CE1ECFDF1391D07000F8DE21 /* RotationViewController.h */,
+				CE1ECFE01391D07000F8DE21 /* RotationViewController.m */,
+				CE1ECFE11391D07000F8DE21 /* RotationViewController.xib */,
+				CE1ECFE41391D08300F8DE21 /* LongPressViewController.h */,
+				CE1ECFE51391D08300F8DE21 /* LongPressViewController.m */,
+				CE1ECFE61391D08300F8DE21 /* LongPressViewController.xib */,
+			);
+			name = Controllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -155,6 +238,18 @@
 				CE1ECFB61391CD2A00F8DE21 /* Default.png in Resources */,
 				CE1ECFB81391CD2A00F8DE21 /* Default@2x.png in Resources */,
 				CE1ECFBA1391CD2A00F8DE21 /* Default-568h@2x.png in Resources */,
+				CE1ECFC41391CD6700F8DE21 /* MainViewController.xib in Resources */,
+				CE1ECFCF1391CF4D00F8DE21 /* TapViewController.xib in Resources */,
+				CE1ECFD41391CF9700F8DE21 /* PinchViewController.xib in Resources */,
+				CE1ECFD91391CFAC00F8DE21 /* PanViewController.xib in Resources */,
+				CE1ECFDE1391CFBD00F8DE21 /* SwipeViewController.xib in Resources */,
+				CE1ECFE31391D07000F8DE21 /* RotationViewController.xib in Resources */,
+				CE1ECFE81391D08300F8DE21 /* LongPressViewController.xib in Resources */,
+				CE1ECFEB1391D0B200F8DE21 /* guidex2.png in Resources */,
+				CE1ECFEC1391D0B200F8DE21 /* guidex0.png in Resources */,
+				CE1ECFEE1391DA0300F8DE21 /* b812c8fcc3cec3fd19e07713d788d43f869427fe.jpg in Resources */,
+				CE1ECFF21391EEA800F8DE21 /* guide_look_btn_bg@2x.png in Resources */,
+				CE1ECFF41391F49E00F8DE21 /* pint.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -167,6 +262,13 @@
 			files = (
 				CE1ECFB01391CD2A00F8DE21 /* main.m in Sources */,
 				CE1ECFB41391CD2A00F8DE21 /* MainAppDelegate.m in Sources */,
+				CE1ECFC31391CD6700F8DE21 /* MainViewController.m in Sources */,
+				CE1ECFCE1391CF4D00F8DE21 /* TapViewController.m in Sources */,
+				CE1ECFD31391CF9700F8DE21 /* PinchViewController.m in Sources */,
+				CE1ECFD81391CFAC00F8DE21 /* PanViewController.m in Sources */,
+				CE1ECFDD1391CFBD00F8DE21 /* SwipeViewController.m in Sources */,
+				CE1ECFE21391D07000F8DE21 /* RotationViewController.m in Sources */,
+				CE1ECFE71391D08300F8DE21 /* LongPressViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -279,6 +381,7 @@
 				CE1ECFBF1391CD2A00F8DE21 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
